@@ -60,7 +60,7 @@ if (isset($_POST['delete_message_id'])) {
                             <div class="card p-3 shadow-sm">
 
                                 <?php if (count($messages) === 0): ?>
-                                    <p class="no-message">No messages available.</p>
+                                    <p class="no-message">Mesajınız yok</p>
                                 <?php else: ?>
                                     <ul class="list-group">
                                         <?php foreach ($messages as $message): ?>
