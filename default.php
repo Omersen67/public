@@ -153,7 +153,7 @@
                     />
                 </defs>
             </svg>
-            <h1>Artık Hazırsınız!</h1>
+            <h1>Artık Hazırsınız!!</h1>
             <p>Şimdi tek yapmanız gereken web sitesi dosyalarınızı yüklemek ve yolculuğunuza başlamak. Nasıl yapacağınızı aşağıdan kontrol edin:</p>
             <div class="link-container">
                 <a 
